@@ -1,0 +1,9 @@
+Normal Contacts
+	 1. name: dave / phone number: 010-0000-0000 / relation: friend
+	 2. name: calson / phone number: 010-1111-1111 / relation: mom
+Club Contacts
+	 1. name: jack / phone number: 010-2222-3333 / club name: donut-king
+	 2. name: curly / phone number: 010-3333-3333 / club name: bikeSearly
+Department Contacts
+	 1. name: eee / phone number: 010-4444-4444 / department: computer-science
+	 2. name: aaa / phone number: 010-5555-5555 / department: data-science
